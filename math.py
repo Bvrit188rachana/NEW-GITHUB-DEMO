@@ -13,9 +13,6 @@ def multiply(x,y):
 #Divide Implementation    
 def divide(x,y):
 
-    if(y==0):
-        return "zero"
-    else:
-        return x/y
+    return x/y
 def sqaure():
     pass
